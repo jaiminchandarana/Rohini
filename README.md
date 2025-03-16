@@ -1,11 +1,11 @@
 # Hackathon
 
 
-##Prerequisites
+## Prerequisites
 
 Make sure you have Python installed on your system.
 
-##Steps to Run the Project
+## Steps to Run the Project
 
 1. Open the Project Folder in Command Prompt (cmd)
 
