@@ -20,7 +20,7 @@ cd path/to/your/folder
 
 2. **Install Dependencies**:
 
-Run the following command in cmd to install the required dependencies:
+- Run the following command in cmd to install the required dependencies:
 ```
 pip install -r requirements.txt
 ```
