@@ -1,2 +1,8 @@
-nltk
 requests
+json
+pyproj
+importlib
+os-sys
+nltk
+numpy
+sentence-transformers
