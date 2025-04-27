@@ -1,6 +1,5 @@
 import requests
 from pyproj import Transformer
-from GetCordinate import get_cord
 
 def get_rainfall(lat, lon):
     transformer = Transformer.from_crs("EPSG:4326", "EPSG:3857", always_xy=True)
