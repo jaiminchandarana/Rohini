@@ -3,7 +3,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.neighbors import NearestNeighbors
 import os
-import dynamic_import
+from main import data
 
 with open('sample.json', 'r') as f:
     sample_data = json.load(f)
@@ -112,7 +112,6 @@ def update_memory(user_query, generated_response):
     save_memory(memory)
 
 def main():
-    data = dynamic_import("main").data
     print("=== Weather Chatbot ===")
     user_query = data()
     memory = get_memory()
