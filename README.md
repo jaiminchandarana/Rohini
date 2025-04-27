@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 3. **Run the Project**:
 
-You can run `main.py` in any IDE of your choice or execute it directly from cmd:
+You can run `train.py` in any IDE of your choice or execute it directly from cmd:
 ```
-python main.py
+python train.py
 ```
