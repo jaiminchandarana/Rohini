@@ -1,5 +1,4 @@
 import requests
-from GetCordinate import get_cord
 
 def get_weather(lat, lon):
     url = f"https://mosdac.gov.in/apiweather1/weather?lon={lon}&lat={lat}"
