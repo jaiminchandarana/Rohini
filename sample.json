@@ -1,0 +1,23 @@
+{
+    "queries": [
+      "What is the weather like in Ahmedabad?",
+      "Will it rain in Mumbai tomorrow?",
+      "How hot is it in chennai?",
+      "What’s the temperature in shimla right now?",
+      "Is it snowing in masuri?",
+      "What’s the humidity level in bhopal?",
+      "Is today a good day for a picnic in goa?",
+      "How strong is the wind in Prayagraj?"
+    ],
+    "responses": [
+      "Yes, Ahmedabad is cloudy today with a temperature of 18°C.",
+      "No, Mumbai is expected to have clear skies tomorrow with a high of 34°C and low of 19°C.",
+      "chennai is very hot today with temperatures reaching 45°C.",
+      "The current temperature in shimla is 12°C with light snow.",
+      "Yes, masuri is experiencing snowfall with temperatures around -5°C.",
+      "bhopal currently has a humidity level of 85%, making it feel quite humid.",
+      "Yes, goa has clear skies and mild temperatures of 22°C, making it a great day for a picnic.",
+      "Prayagraj is experiencing strong winds of 25 km/h today."
+    ]
+  }
+  
